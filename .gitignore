@@ -1,0 +1,6 @@
+*.o
+server
+client
+*.dSYM/
+.DS_Store
+log
